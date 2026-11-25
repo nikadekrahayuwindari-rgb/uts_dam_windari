@@ -1,0 +1,14 @@
+waktu,url_final,status,detik,percobaan
+2026-11-24T11:50:59,https://id.wikipedia.org/robots.txt,200,0.09,1
+2026-11-24T11:51:15,https://id.wikipedia.org/robots.txt,200,0.1,1
+2026-11-24T11:51:43,https://id.wikipedia.org/robots.txt,200,0.08,1
+2026-11-24T11:52:33,https://archive-api.open-meteo.com/v1/archive?latitude=-8.5819&longitude=115.1771&start_date=2025-01-01&end_date=2025-02-28&daily=temperature_2m_mean%2Cprecipitation_sum&timezone=Asia%2FMakassar,200,0.49,1
+2026-11-24T11:52:35,https://archive-api.open-meteo.com/v1/archive?latitude=-8.6705&longitude=115.2126&start_date=2025-01-01&end_date=2025-02-28&daily=temperature_2m_mean%2Cprecipitation_sum&timezone=Asia%2FMakassar,200,0.48,1
+2026-11-24T11:52:37,https://archive-api.open-meteo.com/v1/archive?latitude=-8.535&longitude=115.3256&start_date=2025-01-01&end_date=2025-02-28&daily=temperature_2m_mean%2Cprecipitation_sum&timezone=Asia%2FMakassar,200,0.47,1
+2026-11-24T11:52:39,https://archive-api.open-meteo.com/v1/archive?latitude=-8.5413&longitude=115.1252&start_date=2025-01-01&end_date=2025-02-28&daily=temperature_2m_mean%2Cprecipitation_sum&timezone=Asia%2FMakassar,200,0.47,1
+2026-11-24T11:52:41,https://archive-api.open-meteo.com/v1/archive?latitude=-8.5349&longitude=115.4024&start_date=2025-01-01&end_date=2025-02-28&daily=temperature_2m_mean%2Cprecipitation_sum&timezone=Asia%2FMakassar,200,0.47,1
+2026-11-24T11:52:43,https://archive-api.open-meteo.com/v1/archive?latitude=-8.4543&longitude=115.3549&start_date=2025-01-01&end_date=2025-02-28&daily=temperature_2m_mean%2Cprecipitation_sum&timezone=Asia%2FMakassar,200,0.49,1
+2026-11-24T11:52:45,https://archive-api.open-meteo.com/v1/archive?latitude=-8.448&longitude=115.6128&start_date=2025-01-01&end_date=2025-02-28&daily=temperature_2m_mean%2Cprecipitation_sum&timezone=Asia%2FMakassar,200,0.48,1
+2026-11-24T11:52:47,https://archive-api.open-meteo.com/v1/archive?latitude=-8.112&longitude=115.0882&start_date=2025-01-01&end_date=2025-02-28&daily=temperature_2m_mean%2Cprecipitation_sum&timezone=Asia%2FMakassar,200,0.47,1
+2026-11-24T11:52:49,https://archive-api.open-meteo.com/v1/archive?latitude=-8.3596&longitude=114.6368&start_date=2025-01-01&end_date=2025-02-28&daily=temperature_2m_mean%2Cprecipitation_sum&timezone=Asia%2FMakassar,200,0.5,1
+2026-11-24T11:53:06,https://id.wikipedia.org/wiki/Kabupaten_Badung,200,0.08,1
