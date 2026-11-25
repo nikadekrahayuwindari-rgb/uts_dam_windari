@@ -1,0 +1,10 @@
+no,aspek,status,keterangan
+1,Kepatuhan Ketentuan Layanan (ToS),Ya,"Mengikuti ToS resmi Satu Data Provinsi Bali / Dinas Kebudayaan, Open-Meteo API, dan Wikimedia Foundation."
+2,Pengecekan robots.txt,Ya,RobotFileParser.can_fetch() mengonfirmasi URL target dapat diakses (Status: True).
+3,Identitas User-Agent Jelas,Ya,Mengirimkan kredensial transparan via header User-Agent: INSTIKI-BIFP243-UTS/1.0 (2501010176@instiki.ac.id).
+4,Pembatasan Laju (Rate Limiting),Ya,Membatasi frekuensi dengan jeda request 1.5 detik dan durasi timeout 15 detik.
+5,Penanganan Error & Retry Sopan,Ya,Menerapkan skema exponential backoff bertahap jika mendeteksi server sibuk.
+6,Kejelasan Lisensi Data,Ya,Menggunakan lisensi terbuka (CSV: Open Data Pemerintah (CC BY 4.0); Cuaca: CC BY 4.0; Wiki: CC BY-SA 4.0).
+7,Perlindungan Privasi & PII,Ya,"Telah melewati modul sensor otomatis PII, nihil data sensitif/personal."
+8,Penyimpanan Data Mentah (Raw),Ya,Data respons asli diarsipkan secara mutlak tanpa rekayasa pada folder data/raw/.
+9,Pencatatan Provenance & Checksum,Ya,Informasi asal usul data beserta hash integritas dicatat secara berkala.

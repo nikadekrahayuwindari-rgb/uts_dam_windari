@@ -1,0 +1,109 @@
+tahun,jenis_kesenian,kabupaten_kota,jumlah_sanggar_seni,kunci_wilayah,rata2_suhu_c,total_curah_hujan_mm,jumlah_hari_observasi,jumlah_baris_referensi_wiki
+2024,Seni Tari,Kabupaten Badung,23,badung,25.76,1030.0,59,42
+2024,Seni Tari,Kota Denpasar,27,denpasar,26.29,646.8,59,0
+2024,Seni Tari,Kabupaten Gianyar,35,gianyar,25.83,898.8,59,0
+2024,Seni Tari,Kabupaten Tabanan,19,tabanan,25.64,1087.9,59,0
+2024,Seni Tari,Kabupaten Klungkung,14,klungkung,25.88,704.1,59,0
+2024,Seni Tari,Kabupaten Bangli,12,bangli,23.39,685.4,59,0
+2024,Seni Tari,Kabupaten Karangasem,15,karangasem,25.3,844.9,59,0
+2024,Seni Tari,Kabupaten Buleleng,21,buleleng,27.07,675.3,59,0
+2024,Seni Tari,Kabupaten Jembrana,11,jembrana,26.43,705.2,59,0
+2024,Seni Tabuh/Karawitan,Kabupaten Badung,25,badung,25.76,1030.0,59,42
+2024,Seni Tabuh/Karawitan,Kota Denpasar,29,denpasar,26.29,646.8,59,0
+2024,Seni Tabuh/Karawitan,Kabupaten Gianyar,37,gianyar,25.83,898.8,59,0
+2024,Seni Tabuh/Karawitan,Kabupaten Tabanan,21,tabanan,25.64,1087.9,59,0
+2024,Seni Tabuh/Karawitan,Kabupaten Klungkung,16,klungkung,25.88,704.1,59,0
+2024,Seni Tabuh/Karawitan,Kabupaten Bangli,14,bangli,23.39,685.4,59,0
+2024,Seni Tabuh/Karawitan,Kabupaten Karangasem,17,karangasem,25.3,844.9,59,0
+2024,Seni Tabuh/Karawitan,Kabupaten Buleleng,23,buleleng,27.07,675.3,59,0
+2024,Seni Tabuh/Karawitan,Kabupaten Jembrana,13,jembrana,26.43,705.2,59,0
+2024,Seni Teater/Drama Gong,Kabupaten Badung,27,badung,25.76,1030.0,59,42
+2024,Seni Teater/Drama Gong,Kota Denpasar,31,denpasar,26.29,646.8,59,0
+2024,Seni Teater/Drama Gong,Kabupaten Gianyar,39,gianyar,25.83,898.8,59,0
+2024,Seni Teater/Drama Gong,Kabupaten Tabanan,23,tabanan,25.64,1087.9,59,0
+2024,Seni Teater/Drama Gong,Kabupaten Klungkung,18,klungkung,25.88,704.1,59,0
+2024,Seni Teater/Drama Gong,Kabupaten Bangli,16,bangli,23.39,685.4,59,0
+2024,Seni Teater/Drama Gong,Kabupaten Karangasem,19,karangasem,25.3,844.9,59,0
+2024,Seni Teater/Drama Gong,Kabupaten Buleleng,25,buleleng,27.07,675.3,59,0
+2024,Seni Teater/Drama Gong,Kabupaten Jembrana,15,jembrana,26.43,705.2,59,0
+2024,Seni Pedalangan,Kabupaten Badung,29,badung,25.76,1030.0,59,42
+2024,Seni Pedalangan,Kota Denpasar,33,denpasar,26.29,646.8,59,0
+2024,Seni Pedalangan,Kabupaten Gianyar,41,gianyar,25.83,898.8,59,0
+2024,Seni Pedalangan,Kabupaten Tabanan,25,tabanan,25.64,1087.9,59,0
+2024,Seni Pedalangan,Kabupaten Klungkung,20,klungkung,25.88,704.1,59,0
+2024,Seni Pedalangan,Kabupaten Bangli,18,bangli,23.39,685.4,59,0
+2024,Seni Pedalangan,Kabupaten Karangasem,21,karangasem,25.3,844.9,59,0
+2024,Seni Pedalangan,Kabupaten Buleleng,27,buleleng,27.07,675.3,59,0
+2024,Seni Pedalangan,Kabupaten Jembrana,17,jembrana,26.43,705.2,59,0
+2024,Seni Rupa/Ukir,Kabupaten Badung,31,badung,25.76,1030.0,59,42
+2024,Seni Rupa/Ukir,Kota Denpasar,35,denpasar,26.29,646.8,59,0
+2024,Seni Rupa/Ukir,Kabupaten Gianyar,43,gianyar,25.83,898.8,59,0
+2024,Seni Rupa/Ukir,Kabupaten Tabanan,27,tabanan,25.64,1087.9,59,0
+2024,Seni Rupa/Ukir,Kabupaten Klungkung,22,klungkung,25.88,704.1,59,0
+2024,Seni Rupa/Ukir,Kabupaten Bangli,20,bangli,23.39,685.4,59,0
+2024,Seni Rupa/Ukir,Kabupaten Karangasem,23,karangasem,25.3,844.9,59,0
+2024,Seni Rupa/Ukir,Kabupaten Buleleng,29,buleleng,27.07,675.3,59,0
+2024,Seni Rupa/Ukir,Kabupaten Jembrana,19,jembrana,26.43,705.2,59,0
+2024,Seni Sastra,Kabupaten Badung,33,badung,25.76,1030.0,59,42
+2024,Seni Sastra,Kota Denpasar,37,denpasar,26.29,646.8,59,0
+2024,Seni Sastra,Kabupaten Gianyar,45,gianyar,25.83,898.8,59,0
+2024,Seni Sastra,Kabupaten Tabanan,29,tabanan,25.64,1087.9,59,0
+2024,Seni Sastra,Kabupaten Klungkung,24,klungkung,25.88,704.1,59,0
+2024,Seni Sastra,Kabupaten Bangli,22,bangli,23.39,685.4,59,0
+2024,Seni Sastra,Kabupaten Karangasem,25,karangasem,25.3,844.9,59,0
+2024,Seni Sastra,Kabupaten Buleleng,31,buleleng,27.07,675.3,59,0
+2024,Seni Sastra,Kabupaten Jembrana,21,jembrana,26.43,705.2,59,0
+2025,Seni Tari,Kabupaten Badung,26,badung,25.76,1030.0,59,42
+2025,Seni Tari,Kota Denpasar,30,denpasar,26.29,646.8,59,0
+2025,Seni Tari,Kabupaten Gianyar,38,gianyar,25.83,898.8,59,0
+2025,Seni Tari,Kabupaten Tabanan,22,tabanan,25.64,1087.9,59,0
+2025,Seni Tari,Kabupaten Klungkung,17,klungkung,25.88,704.1,59,0
+2025,Seni Tari,Kabupaten Bangli,15,bangli,23.39,685.4,59,0
+2025,Seni Tari,Kabupaten Karangasem,18,karangasem,25.3,844.9,59,0
+2025,Seni Tari,Kabupaten Buleleng,24,buleleng,27.07,675.3,59,0
+2025,Seni Tari,Kabupaten Jembrana,14,jembrana,26.43,705.2,59,0
+2025,Seni Tabuh/Karawitan,Kabupaten Badung,28,badung,25.76,1030.0,59,42
+2025,Seni Tabuh/Karawitan,Kota Denpasar,32,denpasar,26.29,646.8,59,0
+2025,Seni Tabuh/Karawitan,Kabupaten Gianyar,40,gianyar,25.83,898.8,59,0
+2025,Seni Tabuh/Karawitan,Kabupaten Tabanan,24,tabanan,25.64,1087.9,59,0
+2025,Seni Tabuh/Karawitan,Kabupaten Klungkung,19,klungkung,25.88,704.1,59,0
+2025,Seni Tabuh/Karawitan,Kabupaten Bangli,17,bangli,23.39,685.4,59,0
+2025,Seni Tabuh/Karawitan,Kabupaten Karangasem,20,karangasem,25.3,844.9,59,0
+2025,Seni Tabuh/Karawitan,Kabupaten Buleleng,26,buleleng,27.07,675.3,59,0
+2025,Seni Tabuh/Karawitan,Kabupaten Jembrana,16,jembrana,26.43,705.2,59,0
+2025,Seni Teater/Drama Gong,Kabupaten Badung,30,badung,25.76,1030.0,59,42
+2025,Seni Teater/Drama Gong,Kota Denpasar,34,denpasar,26.29,646.8,59,0
+2025,Seni Teater/Drama Gong,Kabupaten Gianyar,42,gianyar,25.83,898.8,59,0
+2025,Seni Teater/Drama Gong,Kabupaten Tabanan,26,tabanan,25.64,1087.9,59,0
+2025,Seni Teater/Drama Gong,Kabupaten Klungkung,21,klungkung,25.88,704.1,59,0
+2025,Seni Teater/Drama Gong,Kabupaten Bangli,19,bangli,23.39,685.4,59,0
+2025,Seni Teater/Drama Gong,Kabupaten Karangasem,22,karangasem,25.3,844.9,59,0
+2025,Seni Teater/Drama Gong,Kabupaten Buleleng,28,buleleng,27.07,675.3,59,0
+2025,Seni Teater/Drama Gong,Kabupaten Jembrana,18,jembrana,26.43,705.2,59,0
+2025,Seni Pedalangan,Kabupaten Badung,32,badung,25.76,1030.0,59,42
+2025,Seni Pedalangan,Kota Denpasar,36,denpasar,26.29,646.8,59,0
+2025,Seni Pedalangan,Kabupaten Gianyar,44,gianyar,25.83,898.8,59,0
+2025,Seni Pedalangan,Kabupaten Tabanan,28,tabanan,25.64,1087.9,59,0
+2025,Seni Pedalangan,Kabupaten Klungkung,23,klungkung,25.88,704.1,59,0
+2025,Seni Pedalangan,Kabupaten Bangli,21,bangli,23.39,685.4,59,0
+2025,Seni Pedalangan,Kabupaten Karangasem,24,karangasem,25.3,844.9,59,0
+2025,Seni Pedalangan,Kabupaten Buleleng,30,buleleng,27.07,675.3,59,0
+2025,Seni Pedalangan,Kabupaten Jembrana,20,jembrana,26.43,705.2,59,0
+2025,Seni Rupa/Ukir,Kabupaten Badung,34,badung,25.76,1030.0,59,42
+2025,Seni Rupa/Ukir,Kota Denpasar,38,denpasar,26.29,646.8,59,0
+2025,Seni Rupa/Ukir,Kabupaten Gianyar,46,gianyar,25.83,898.8,59,0
+2025,Seni Rupa/Ukir,Kabupaten Tabanan,30,tabanan,25.64,1087.9,59,0
+2025,Seni Rupa/Ukir,Kabupaten Klungkung,25,klungkung,25.88,704.1,59,0
+2025,Seni Rupa/Ukir,Kabupaten Bangli,23,bangli,23.39,685.4,59,0
+2025,Seni Rupa/Ukir,Kabupaten Karangasem,26,karangasem,25.3,844.9,59,0
+2025,Seni Rupa/Ukir,Kabupaten Buleleng,32,buleleng,27.07,675.3,59,0
+2025,Seni Rupa/Ukir,Kabupaten Jembrana,22,jembrana,26.43,705.2,59,0
+2025,Seni Sastra,Kabupaten Badung,36,badung,25.76,1030.0,59,42
+2025,Seni Sastra,Kota Denpasar,40,denpasar,26.29,646.8,59,0
+2025,Seni Sastra,Kabupaten Gianyar,48,gianyar,25.83,898.8,59,0
+2025,Seni Sastra,Kabupaten Tabanan,32,tabanan,25.64,1087.9,59,0
+2025,Seni Sastra,Kabupaten Klungkung,27,klungkung,25.88,704.1,59,0
+2025,Seni Sastra,Kabupaten Bangli,25,bangli,23.39,685.4,59,0
+2025,Seni Sastra,Kabupaten Karangasem,28,karangasem,25.3,844.9,59,0
+2025,Seni Sastra,Kabupaten Buleleng,34,buleleng,27.07,675.3,59,0
+2025,Seni Sastra,Kabupaten Jembrana,24,jembrana,26.43,705.2,59,0
